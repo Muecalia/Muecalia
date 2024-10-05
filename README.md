@@ -1,8 +1,9 @@
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">- Back end Developer (Python Django and .NetCore<br>- Work in Unitel SA</p>
+<p>
+Desenvolvedor Back End .Net Core, com 3 anos de experiência, actuando em soluções robustas e escaláveis, com sólida experiência em .NET Core, e um conjunto diversificado de tecnologias de banco de dados, incluindo PostgreSQL, MySQL e SQL Server. Minha jornada profissional me levou a abraçar práticas modernas de desenvolvimento, como Docker e Kubernetes, e a explorar as melhores práticas de mensageria com RabbitMQ.
+</p>
+<p>
+Busco continuamente aprender e aplicar novas tecnologias e práticas para melhorar o desempenho e a confiabilidade das soluções que desenvolvo. Estou sempre aberto a desafios que me permitam crescer como profissional e contribuir para o sucesso de projetos inovadores.
+</p>
 
 ###
 
